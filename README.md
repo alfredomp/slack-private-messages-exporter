@@ -80,6 +80,7 @@ $ git clone git@github.com:kquinsland/slack-private-messages-exporter.git
 
 ```
 $ python3 -m venv ./venv
+$ source venv/bin/activate
 (venv) $ pip3 install slacker
 ```
 
